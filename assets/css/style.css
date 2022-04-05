@@ -68,7 +68,7 @@ h1, p {
 }
 
 img {
-	max-width: 100%;
+	width: 100%;
 }
 
 .imageWrapper {
@@ -89,4 +89,12 @@ img {
 
 .imageWrapper:hover .imageText {
 	opacity: 1;
+}
+
+.videoLink {
+	display: block;
+}
+
+.controls {
+	padding: 20px;
 }
